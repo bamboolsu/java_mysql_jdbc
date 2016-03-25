@@ -3,4 +3,4 @@
 
 
 说明： 
-1， .project    .classpath .settings 与 bin 目录不能上传。  所以需要自己来创建工程。
+1， 测试前，需要先把数据库test.sql 导入mysql数据库中。  
